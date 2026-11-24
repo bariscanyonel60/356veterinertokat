@@ -23,6 +23,11 @@
 # misc
 .DS_Store
 *.pem
+.cursor/
+.claude/
+.impeccable/
+.kiro/
+.netlify/
 
 # debug
 npm-debug.log*
